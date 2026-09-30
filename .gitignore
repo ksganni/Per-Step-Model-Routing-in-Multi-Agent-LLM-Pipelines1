@@ -21,3 +21,8 @@ cache/
 
 # macOS
 .DS_Store
+
+# Raw datasets (too big for git)
+data/bird/
+data/hotpot/
+minidev.zip
